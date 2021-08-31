@@ -1,0 +1,26 @@
+{
+  "name": "express-study",
+  "version": "1.0.0",
+  "description": "express study",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonyvibin96/express-study.git"
+  },
+  "author": "antony vibin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonyvibin96/express-study/issues"
+  },
+  "homepage": "https://github.com/antonyvibin96/express-study#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
